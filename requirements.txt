@@ -1,3 +1,4 @@
+streambook
 pandas
 matplotlib
 jupyter
